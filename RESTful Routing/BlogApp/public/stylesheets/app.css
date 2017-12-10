@@ -1,0 +1,19 @@
+i.icon{
+    font-size: 2em;
+}
+i.chevron{
+    font-size: 1.2em;
+}
+body{
+    background: #2A2A2A;
+}
+.container.main{
+    margin-top: 5.0em;
+}
+
+#delete{
+    display: inline;
+}
+.ui.header{
+    color: rgba(255, 255, 255, 0.75);
+}
